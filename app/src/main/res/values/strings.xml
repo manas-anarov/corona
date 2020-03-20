@@ -37,6 +37,7 @@
     <string name="map_name">Карта с пунктами помощи</string>
     <string name="map_city">Ваш город</string>
 
+
     //map - города
     <string name="map_city_bishkek">Бишкек</string>
     <string name="map_city_osh">Ош</string>
